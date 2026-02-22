@@ -1,6 +1,6 @@
 # MuTune Frontend
 
-![MuTune Main](./main.png)
+![MuTune Main](./ Mutune-Home.png)
 
 Backend Repository:  
 https://github.com/Dun0318/mutune-backend
