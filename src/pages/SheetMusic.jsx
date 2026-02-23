@@ -65,7 +65,7 @@ const SheetMusic = () => {
     setPreviewUrls(urls);
   };
 
-  // 🔥 변경된 부분 — Step1에서는 백엔드를 호출하지 않는다
+  //  Step1에서는 백엔드를 호출하지 않는다
   const goToStep2 = () => {
     navigate("/sheetMusic/step2", {
       state: { files },
